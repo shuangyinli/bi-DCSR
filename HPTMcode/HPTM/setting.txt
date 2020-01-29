@@ -1,0 +1,17 @@
+pi_learn_rate 0.1
+max_pi_iter 10
+pi_min_eps 0.00001
+max_xi_iter 50
+xi_learn_rate 10
+xi_min_eps 0.00001
+max_em_iter 100
+num_threads 4
+sen_var_converence 1e-4
+sen_max_var_iter 5
+doc_var_converence 0.01
+doc_max_var_iter 2
+em_converence 1e-4
+num_topics 10
+neighbor 1
+num_words 16487
+num_all_keywords 16487

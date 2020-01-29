@@ -1,0 +1,22 @@
+bi-DCTM
+
+A small data set is provided in the [your path]/HPTM/input/
+
+Before you run example.sh, please change the parameters in [your path]/HPTM/setting.txt
+
+Please use the code as follows:
+
+－－－－－－－－－－－－－－－－－－－－－－
+cd [your path]/HPTM/
+
+chmod 777 ./example.sh
+
+./example.sh
+
+－－－－－－－－－－－－－－－－－－－－－－
+
+
+
+
+
+
